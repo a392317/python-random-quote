@@ -1,0 +1,16 @@
+r1 = ['yes', 'Yes', 'sure', 'Sure']
+r2 = ['No','no', 'No thank you','no thank you']
+r3 = ['Americano', 'americano']
+r4 = ['Latte', 'latte']
+r5 = ['Expresson', 'expresso']
+x = input('would you like icecream?: ')
+y = input('Americano, latte, expresso?: ')
+if x == r1:
+  if y == r3:
+    print ('good choice')
+    elif y == r4
+    print ('my favorite')
+    elif y == r5
+    print ('great!')
+else x == r2
+  print( 'OK have a boring day')
