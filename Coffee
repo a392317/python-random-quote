@@ -3,7 +3,7 @@ r2 = ['No','no', 'No thank you','no thank you']
 r3 = ['Americano', 'americano']
 r4 = ['Latte', 'latte']
 r5 = ['Expresson', 'expresso']
-x = input('would you like icecream?: ')
+x = input('would you like a cup of coffee?: ')
 y = input('Americano, latte, expresso?: ')
 if x == r1:
   if y == r3:
